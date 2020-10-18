@@ -1,4 +1,4 @@
-/* Unicode Library | v1.0.1
+/* Unicode Library | v1.0.2
 CopyRight ento32940 2020(c)
 */
 'use strict';
