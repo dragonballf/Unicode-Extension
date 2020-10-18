@@ -1,5 +1,5 @@
-/* Unicode Library | v1.0.0 
-CopyRight Jay 2020(c)
+/* Unicode Library | v1.0.1
+CopyRight ento32940 2020(c)
 */
 'use strict';
   
@@ -45,9 +45,3 @@ var U24CC = 'Ⓦ';
 var U24CD = 'Ⓧ';
 var U24CE = 'Ⓨ';
 var U24CF = 'Ⓩ';
-
-export {U3164, U2460, U2461, U2462, U2463, U2464, U2465, U2466, U2467, 
-        U2468, U2469, U24B6, U24B7, U24B8, U24B9, U24BA, U24BB, U24BC,
-        U24BD, U24BE, U24BF, U24C0, U24C1, U24C2, U24C3, U24C4, U24C5,
-        U24C6, U24C7, U24C8, U24C9, U24CA, U24CB, U24CC, U24CD, U24CE,
-        U24CF};
