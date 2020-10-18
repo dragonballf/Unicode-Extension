@@ -1,14 +1,14 @@
 {
   "name": "unicode-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript Unicode Library",
-  "main": "folder/unicode.mjs",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casto129/Unicode-JS.git"
+    "url": "git+https://github.com/casto129/Unicode-Extension.git"
   },
   "keywords": [
     "unicode",
@@ -18,7 +18,12 @@
   "author": "ento32940",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/casto129/Unicode-JS/issues"
+    "url": "https://github.com/casto129/Unicode-Extension/issues"
   },
-  "homepage": "https://github.com/casto129/Unicode-JS#readme"
+  "homepage": "https://github.com/casto129/Unicode-Extension#readme",
+  "dependencies": {
+    "@babel/cli": "^7.12.3",
+    "@babel/core": "^7.12.1",
+    "@babel/preset-env": "^7.12.1"
+  }
 }
